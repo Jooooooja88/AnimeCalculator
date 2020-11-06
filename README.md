@@ -1,2 +1,0 @@
-# AnimeCalculator
-Calculator
